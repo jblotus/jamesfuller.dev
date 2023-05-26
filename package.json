@@ -1,0 +1,19 @@
+{
+  "name": "jamesfuller.dev",
+  "version": "1.0.0",
+  "description": "jamesfuller.dev website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jblotus/jamesfuller.dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jblotus/jamesfuller.dev/issues"
+  },
+  "homepage": "https://github.com/jblotus/jamesfuller.dev#readme"
+}
