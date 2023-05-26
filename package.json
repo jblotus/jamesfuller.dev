@@ -4,6 +4,7 @@
   "description": "jamesfuller.dev website",
   "main": "index.js",
   "scripts": {
+    "build": "echo \"Under construction\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
